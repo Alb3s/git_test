@@ -1,0 +1,2 @@
+Hello, world.
+I'm just doing what The Odin Project tells me to do.
